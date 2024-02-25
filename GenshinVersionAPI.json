@@ -1,26 +1,26 @@
 {
-    "version": "4.3",
-    "version_name": "Roses and Muskets",
+    "version": "4.4",
+    "version_name": "Vibrant Harriers Aloft in Spring Breeze",
     "links": {
-        "clean_game_1": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.001",
-        "clean_game_2": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.002",
-        "clean_game_3": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.003",
-        "clean_game_4": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.004",
-        "clean_game_5": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.005",
-        "clean_game_6": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.006",
-        "clean_game_7": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231208190631_76nrKFC3l3HQt1yg/GenshinImpact_4.3.0.zip.007",
-        "update_previous": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.2.0_4.3.0_hdiff_YQPfi2FIskEr085l.zip",
-        "update_previous2": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.1.0_4.3.0_hdiff_aHVFC5jtk4JnmSQy.zip"
+        "clean_game_1": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.001",
+        "clean_game_2": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.002",
+        "clean_game_3": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.003",
+        "clean_game_4": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.004",
+        "clean_game_5": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.005",
+        "clean_game_6": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.006",
+        "clean_game_7": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240119183743_YjHC1oBl0Hsgxkub/GenshinImpact_4.4.0.zip.007",
+        "update_previous": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.3.0_4.4.0_hdiff_7lGqkpy9saiZYfXS.zip",
+        "update_previous2": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.2.0_4.4.0_hdiff_1aB6HkjiezJR30fI.zip"
     },
     "md5": {
-        "clean_game_1_md5": "a878723bc55799a9f44d419ee92e65db",
-        "clean_game_2_md5": "3f42843fd6544af39664f059a4bb8c86",
-        "clean_game_3_md5": "a6972a1053dba8697a3f18a4b49a5d2b",
-        "clean_game_4_md5": "a29ed111ae6a6315ea1eae0f99e4a106",
-        "clean_game_5_md5": "f6d4d05de27af51bfb7ce086538045ed",
-        "clean_game_6_md5": "f484c07cb27fea8a0f2c48dd95a50b71",
-        "clean_game_7_md5": "7a7713bf4822c2fed89332e5aa790290",
-        "update_previous_md5": "15E9358CDED433F9ADAF51026819B3EE",
-        "update_previous2_md5": "CDD90E29DCEE2E3B8691C0E24DCAFE41"
+        "clean_game_1_md5": "e88cc4c3a692cbe2bcc6bafdf1b6faa4",
+        "clean_game_2_md5": "f8b33f2c761c6717bc773314008a6ead",
+        "clean_game_3_md5": "d88d3be3b856121836f66c1c7e3a5f15",
+        "clean_game_4_md5": "4a1e1d951b35af65f6865d7b438893bc",
+        "clean_game_5_md5": "9c055ecac31b34d961758a6e97918698",
+        "clean_game_6_md5": "9daae514dcdda06e777514c226addb60",
+        "clean_game_7_md5": "d2a532642f23eef30905319053da71ca",
+        "update_previous_md5": "7EC96297548F58E9FBE568C9CF5A24BE",
+        "update_previous2_md5": "2F15D128C46FF89749DF10B59CC1FAC0"
     }
 }
